@@ -9,7 +9,9 @@ Requisites packages to use the code are:
 - sksurv
 - warnings
 
-Jupyter Notebook needs to be installed.  
+Jupyter Notebook needs to be installed.
+
+The Python functions used for feature selection, model training, and model evaluation are available in the file RadPanc_functions.ipynb
 
 ### CITATION  
 If you use this results of this code in your work, please cite it as: 
